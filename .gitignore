@@ -1,0 +1,9 @@
+# build output
+src/bin/
+src/obj/
+*.exe
+*.pdb
+*.bak
+# FNIS for Modders is third-party (Fore's New Idles in Skyrim) - not redistributed here.
+# Put the FNIS folder next to SLAL2OStim.exe: FNIS\tools\GenerateFNIS_for_Modders\GenerateFNISforModders.exe
+FNIS/
